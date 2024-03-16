@@ -2,6 +2,9 @@
 
 > Game TicTac
 
+![Screenshot 2024-03-15 at 18 21 18](https://github.com/zaratedev/tictac-vue/assets/29809845/ba85068c-2974-4922-ace5-d2e3ab4f8d98)
+
+
 ## Build Setup
 
 ``` bash
